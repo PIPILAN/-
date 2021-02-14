@@ -1,0 +1,58 @@
+V0.1版本
+2020.2.13 发布
+V0.2版本
+2020.2.23 发布
+大面积改动类
+增加任务系统和部分任务
+增加经济系统和商店
+（内容太多了说不清自己玩就知道了）
+模组改变
+模组更新-Touhou Little Maid-1.1.0Beta
+添加模组-Randomthings
+添加模组-JustEnoughResources
+添加模组-OpenGlider
+添加模组-OpenBlocks
+添加模组-Advanced Hook Launchers
+添加模组-Astral Sorcery
+添加模组-Inventory Pets
+添加模组-SeedsForWizardry
+添加模组-Arcane Essentials
+添加模组-Defiled Lands
+添加模组-Atum 2
+添加模组-Nomadic Tents
+添加模组-FTBUtilities
+添加模组-FTBBackups
+添加模组-FTBLib
+添加模组-FTB quests
+添加模组-FTBMoney
+添加模组-ForgeEndertech
+添加模组-AttributeFix
+移除模组-EnhancedVisuals
+添加模组-MTlib
+添加模组-ModTweaker
+添加模组-CosmeticArmorReworked
+添加模组-Chisel
+添加模组-InControl
+添加模组-blockdrops
+添加模组-Charm
+添加模组-The Midnight
+添加模组-Mowzie's Mobs
+规则改变
+死亡将会扣除2点生命上限，最低生命值为4，最高为40
+更改水晶之心矿石生成层为1-15层
+更改翼蚺的飞行速度为2.5[*2]
+龙息将无法破坏水晶块
+冰与火之歌建筑以及龙穴不会生成在暮色森林
+帐篷将不会被烧毁
+独眼巨人攻击伤害更改为25[+10]，咬合伤害为45[+5]，最大生命值800[+650]
+龙的攻击伤害更改为25[+8]，火龙吐息伤害改为3[+1]点每次，冰龙吐息伤害改为5[+2.5]点每次，检测到箱子被打开或者金子被破坏的范围改为40[+10]（检测范围），最大生命值改为3000[*6]（五级龙）
+龙钢基础伤害更改为30[+5]，基础防护值更改为15[+3]
+小精灵将不会偷取玩家的物品（萌即正义，你们再也没有理由杀害小精灵了）
+海蛇血量更改为100[*5]，生成权重改为100[/2]
+巨魔的生命值更改为200[*4]
+暮色森林开启不再是丢入钻石，而是飞龙颅骨
+增加了光谱粉的配方，自行使用JEI查看
+移除暮色森林分解台的所有配方
+女仆模组玩家将不能随意更换皮肤，需要扭蛋机扭蛋获得皮肤
+生存模式下玩家也将可以骑乘扫帚
+更改龙骨箭、原版箭、斯巴达武器箭矢一次合成出来的数量为32
